@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright
 import time
 
-url = "https://www.youtube.com/results?search_query=desenvolvimento+de+jogos"
+url = "https://www.youtube.com/results?search_query=playsatation+1++games"
 
 try:
     with sync_playwright() as p:
